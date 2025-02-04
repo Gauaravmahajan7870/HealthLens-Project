@@ -9,3 +9,6 @@ HealthLens is a cutting-edge medical image analysis tool powered by **Streamlit*
 
 ## Technologies Used
 - 💡 Built with **Python**, **Streamlit**, and **Google Gemini AI**
+
+  ## Screenshots
+![HealthLens Screenshot]([path_to_image/screenshot.png](https://github.com/Gauaravmahajan7870/HealthLens-Project/blob/main/img.png))
